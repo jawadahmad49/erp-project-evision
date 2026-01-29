@@ -1,0 +1,7 @@
+vendor/
+# Firebase / GCP secrets
+*.json
+application/models/*firebase-adminsdk*.json
+# Firebase / Google Cloud secrets
+application/models/*firebase-adminsdk*.json
+*.env
